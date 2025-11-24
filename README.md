@@ -23,7 +23,7 @@ The review is structured around the evolution of search strategies in chemical s
 
 ## 📊 Visual Summary
 
-![Tree and graph](Tree and graph.jpg)
+![Tree and Graph](Tree and graph.jpg "Tree and Graph")
 > **Figure:** Comparison of Tree (left) vs. Graph (right) structures. The graph representation (used in RetroGraph) eliminates redundant calculations by connecting shared intermediate nodes, whereas tree structures (used in Retro* and MCTS) often duplicate them.
 
 ## 📚 Key References
